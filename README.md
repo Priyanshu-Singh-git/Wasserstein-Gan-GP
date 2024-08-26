@@ -53,9 +53,7 @@ The periodic spikes in loss may indicate the generator learning new features to 
 
 ## Results
 
-After training, the generator is capable of producing images that resemble handwritten digits from the MNIST dataset. Below is a sample of generated images:
-
-![Generated Images](path_to_your_generated_images/generated_images.png)
+After training, the generator is capable of producing images that resemble handwritten digits from the MNIST dataset.
 
 ## Usage
 
